@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\UserRecommendationSystem.dir/objects.a
+E:\Program_Language\C\MinGW\bin\ar.exe qc CMakeFiles\UserRecommendationSystem.dir/objects.a @CMakeFiles\UserRecommendationSystem.dir\objects1.rsp
+E:\Program_Language\C\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\UserRecommendationSystem.dir/objects.a -Wl,--no-whole-archive -o D:\Code_C\DS_Desgin\bin\UserRecommendationSystem.exe -Wl,--out-implib,D:\Code_C\DS_Desgin\bin\libUserRecommendationSystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UserRecommendationSystem.dir\linkLibs.rsp

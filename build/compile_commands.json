@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/Code_C/DS_Desgin/build",
+  "command": "E:\\Program_Language\\C\\MinGW\\bin\\g++.exe  @CMakeFiles/UserRecommendationSystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\UserRecommendationSystem.dir\\src\\FriendsSystem.cpp.obj -c D:\\Code_C\\DS_Desgin\\src\\FriendsSystem.cpp",
+  "file": "D:/Code_C/DS_Desgin/src/FriendsSystem.cpp",
+  "output": "CMakeFiles/UserRecommendationSystem.dir/src/FriendsSystem.cpp.obj"
+},
+{
+  "directory": "D:/Code_C/DS_Desgin/build",
+  "command": "E:\\Program_Language\\C\\MinGW\\bin\\g++.exe  @CMakeFiles/UserRecommendationSystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\UserRecommendationSystem.dir\\src\\Recommender.cpp.obj -c D:\\Code_C\\DS_Desgin\\src\\Recommender.cpp",
+  "file": "D:/Code_C/DS_Desgin/src/Recommender.cpp",
+  "output": "CMakeFiles/UserRecommendationSystem.dir/src/Recommender.cpp.obj"
+},
+{
+  "directory": "D:/Code_C/DS_Desgin/build",
+  "command": "E:\\Program_Language\\C\\MinGW\\bin\\g++.exe  @CMakeFiles/UserRecommendationSystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\UserRecommendationSystem.dir\\src\\UserProfile.cpp.obj -c D:\\Code_C\\DS_Desgin\\src\\UserProfile.cpp",
+  "file": "D:/Code_C/DS_Desgin/src/UserProfile.cpp",
+  "output": "CMakeFiles/UserRecommendationSystem.dir/src/UserProfile.cpp.obj"
+},
+{
+  "directory": "D:/Code_C/DS_Desgin/build",
+  "command": "E:\\Program_Language\\C\\MinGW\\bin\\g++.exe  @CMakeFiles/UserRecommendationSystem.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\UserRecommendationSystem.dir\\src\\main.cpp.obj -c D:\\Code_C\\DS_Desgin\\src\\main.cpp",
+  "file": "D:/Code_C/DS_Desgin/src/main.cpp",
+  "output": "CMakeFiles/UserRecommendationSystem.dir/src/main.cpp.obj"
+}
+]
